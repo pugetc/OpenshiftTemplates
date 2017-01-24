@@ -395,5 +395,5 @@ parameters:
   - name: "DATABASE_VOLUME_CAPACITY"
     displayName: "Database Volume Capacity"
     description: "Volume space available for data, e.g. 1Gi, 3Gi."
-    value: "3Gi"
+    value: "1Gi"
     required: true
