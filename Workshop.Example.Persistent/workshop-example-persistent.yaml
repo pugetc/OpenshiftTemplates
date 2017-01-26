@@ -284,7 +284,7 @@ objects:
 - apiVersion: v1
   kind: Service
   metadata:
-    name: "${APPLICATION_NAME}-db-svc"
+    name: "MYSQL"
     labels:
       app: "${APPLICATION_NAME}"
     annotations:
