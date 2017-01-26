@@ -362,7 +362,7 @@ parameters:
     displayName: "Git Repository URL"
     description: "The URL of the repository with your application source code."
     required: true
-    value: "https://github.com/orangekmt/OpenshiftTemplates.git"
+    value: "https://github.com/pugetc/OpenshiftTemplates.git"
   - name: "SOURCE_REPOSITORY_REF"
     displayName: "Git Repository Reference"
     description: "The branch/tag/ref inside the repository where your application source code resides."
