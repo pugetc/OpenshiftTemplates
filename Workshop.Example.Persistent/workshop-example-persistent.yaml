@@ -44,7 +44,7 @@ objects:
     source:
       type: Git
       git: 
-        uri: ${SOURCE_REPOSITORY_URL}.
+        uri: ${SOURCE_REPOSITORY_URL}
         ref: ${SOURCE_REPOSITORY_REF}
       contextDir: ${SOURCE_REPOSITORY_CONTEXT}  
     strategy:
